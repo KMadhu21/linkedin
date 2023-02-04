@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.fdfc24f5.css",
+    "main.js": "/static/js/main.d10a9895.js",
+    "static/js/787.c47d084b.chunk.js": "/static/js/787.c47d084b.chunk.js",
+    "static/media/tconnect.png": "/static/media/tconnect.54faeb37801aa273d2c9.png",
+    "static/media/fontawesome-webfont.svg?v=4.7.0": "/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
+    "static/media/fontawesome-webfont.eot": "/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
+    "static/media/fontawesome-webfont.ttf?v=4.7.0": "/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
+    "static/media/kalyanpy.png": "/static/media/kalyanpy.27d0c4ea7b93bbfbc017.png",
+    "static/media/hiring.png": "/static/media/hiring.23ced30dc909c08b9d78.png",
+    "static/media/madhu1.png": "/static/media/madhu1.a634a03de3c81e459a80.png",
+    "static/media/fontawesome-webfont.woff?v=4.7.0": "/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
+    "static/media/10daysofjs.png": "/static/media/10daysofjs.aad550b621a5c540ef99.png",
+    "static/media/ajayjava.png": "/static/media/ajayjava.47830e3296499f2f051c.png",
+    "static/media/fontawesome-webfont.woff2?v=4.7.0": "/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
+    "static/media/loginimg.png": "/static/media/loginimg.13e2446c4cfb60d787d7.png",
+    "static/media/news.png": "/static/media/news.baf5b0048f9260ac8418.png",
+    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/index.html",
+    "main.fdfc24f5.css.map": "/static/css/main.fdfc24f5.css.map",
+    "main.d10a9895.js.map": "/static/js/main.d10a9895.js.map",
+    "787.c47d084b.chunk.js.map": "/static/js/787.c47d084b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fdfc24f5.css",
+    "static/js/main.d10a9895.js"
+  ]
+}
